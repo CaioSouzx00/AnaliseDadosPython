@@ -17,7 +17,7 @@ Jupyter Notebook / Google Colab
 
 📂 Como Executar
 Clone este repositório:
-git clone 
+git clone https://github.com/CaioSouzx00/AnaliseDadosPython.git
 
 Acesse a pasta do projeto:
 cd analise-dados-python
